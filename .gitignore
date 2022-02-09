@@ -1,0 +1,5 @@
+# compiled output
+.vs
+
+# dependencies
+node_modules
